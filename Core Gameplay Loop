@@ -1,0 +1,11 @@
+# Core Gameplay Loop
+
+1. Player opens the game
+2. Checks plant status
+3. Performs daily actions
+   - Water
+   - Light
+   - Care
+4. Plant grows or changes state
+5. Player closes the game
+6. Desktop companion becomes active
